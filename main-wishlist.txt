@@ -1,6 +1,7 @@
 title:LVK's DIM Wishlist
 // https://destinyitemmanager.fandom.com/wiki/Creating_Wish_Lists
 // https://data.destinysets.com/
+// 2
 
 // Demolitionist + Subsistence
 dimwishlist:item=-69420&perks=3523296417,1820235745
