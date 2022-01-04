@@ -1,0 +1,9 @@
+title:LVK's DIM Wishlist
+// https://destinyitemmanager.fandom.com/wiki/Creating_Wish_Lists
+// https://data.destinysets.com/
+
+// Demolitionist + Subsistence
+dimwishlist:item=-69420&perks=3523296417,1820235745
+
+// Wellspring + Subsistence
+dimwishlist:item=-69420&perks=3592538738,1820235745
